@@ -2,7 +2,7 @@
 <h2 align="left">I am a front-end developer. I have been in the world of programming for 3 years.</h2>
 
 <h3 align="left">Connect with me:</h3>
-<p>
+<div>
  <a href="https://www.youtube.com/@Coders_Uz" target="_blank">
       <img 
         alt="coders uz youtube" 
@@ -45,7 +45,7 @@
        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
      >
    </a>
-</p>
+</div>
 
 <h3 align="left">Technologies:</h3>
 
