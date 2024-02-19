@@ -27,4 +27,12 @@
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       >
    </a>
+ <a href="https://www.linkedin.com/in/abdujalilov-ismoil-60490826b" target="_blank">
+      <img 
+        alt="Abdujalilov Ismoil LinkedIn" 
+        class="medias__item-img"
+        title="Abdujalilov Ismoil LinkedIn"
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      >
+   </a>
 </div>
