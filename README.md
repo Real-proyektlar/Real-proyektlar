@@ -49,7 +49,7 @@
 
 <h3 align="left">Technologies:</h3>
 
-<p class="box">
+<div class="box">
   <img 
      alt="HTML" 
      title="HTML" 
@@ -150,4 +150,4 @@
      title="LESS" 
      src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" 
   /> 
-</p>
+</div>
