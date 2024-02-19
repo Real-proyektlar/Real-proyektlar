@@ -1,14 +1,8 @@
-<style>
-  h1{
-    color: red;
-  }
-</style>
-
 <h1 align="center">Hi 👋, I'm Coders Uz</h1>
 <h3 align="center">I am a front-end developer. I have been in the world of programming for 3 years.</h3>
 
 <h4 align="left">Connect with me:</h4>
-<ul class="medias__list">
+<ul style="list-style: none; display: flex; align-items: center; gap: 20px;" class="medias__list">
   <li class="medias__item">
     <a href="https://www.youtube.com/@Coders_Uz" target="_blank">
       <img 
