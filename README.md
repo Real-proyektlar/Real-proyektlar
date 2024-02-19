@@ -27,23 +27,4 @@
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       >
    </a>
-
-    <a href="https://www.codewars.com/users/AbdujalilovIsmoilov" target="_blank">
-      <img 
-        class="medias__item-img"
-        alt="Abdujalilov Ismoil codewars" 
-        title="Abdujalilov Ismoil codewars"
-        src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
-      >
-   </a>
-
-    <a href="https://github.com/AbdujalilovIsmoil" target="_blank">
-      <img 
-        class="medias__item-img"
-        alt="Abdujalilov Ismoil github" 
-        title="Abdujalilov Ismoil github"
-        src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
-      >
-   </a>
-  
 </div>
