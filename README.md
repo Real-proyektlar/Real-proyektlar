@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Coders Uz</h1>
-<h3 align="center">I am a Front-End developer. I have been in the world of programming for 3 years.</h3>
+<h3 align="center">I am a front-end developer. I have been in the world of programming for 3 years.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
