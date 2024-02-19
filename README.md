@@ -33,7 +33,7 @@
         class="medias__item-img"
         alt="Abdujalilov Ismoil codewars" 
         title="Abdujalilov Ismoil codewars"
-        src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" 
+        src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
       >
    </a>
 
