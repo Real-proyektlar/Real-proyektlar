@@ -134,12 +134,7 @@
      alt="TAILWIND CSS" 
      title="TAILWIND CSS" 
      src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" 
-  /> 
-  <img 
-     alt="PYTHON" 
-     title="PYTHON" 
-     src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" 
-  /> 
+  />  
   <img 
      alt="MYSQL" 
      title="MYSQL" 
